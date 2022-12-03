@@ -1,0 +1,5 @@
+!/cmake/*.cmake
+!/test/AssemblyTests.cmake
+*~
+*.swp
+*.pyc
